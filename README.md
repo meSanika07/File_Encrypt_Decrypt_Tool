@@ -8,7 +8,7 @@ The **File Encryptor Tool** is a lightweight and user-friendly desktop applicati
 ## ✨ Features
 - 🔒 **Secure Encryption & Decryption**: Uses XOR encryption to protect files.
 - 🔑 **Password Protection**: Ensures security with SHA-256 hashing.
-- 📂 **Batch Processing**: Encrypt or decrypt multiple files at once[Audio,Video,Text,jpg,png].
+- 📂 **Batch Processing**: Encrypt or decrypt multiple files at once (Audio, Video, Text, JPG, PNG).
 - 🖥️ **User-Friendly GUI**: Built with Java Swing for an intuitive interface.
 
 ---
@@ -30,27 +30,30 @@ The **File Encryptor Tool** is a lightweight and user-friendly desktop applicati
 
 ---
 
-🎯 How to Use
-Open the application.
+## 🎯 How to Use
+1. Open the application.
+2. Select one or multiple files to encrypt or decrypt.
+3. Enter a password (stored securely using SHA-256 hashing).
+4. Click **Encrypt** to secure your files or **Decrypt** to restore them.
+5. Toggle password visibility if needed.
 
-Select one or multiple files to encrypt or decrypt.
+---
 
-Enter a password (stored securely using SHA-256 hashing).
+## 🔐 Security Considerations
+- The password is never stored in plain text; it is hashed using SHA-256.
+- Ensure you remember your password, as decryption without it is impossible.
+- Always use strong and unique passwords for better security.
 
-Click Encrypt to secure your files or Decrypt to restore them.
+---
 
-Toggle password visibility if needed.
+## Future Enhancements
+- Implement biometric authentication for additional security.
+- Integrate blockchain-based file verification.
 
-🔐 Security Considerations
-The password is never stored in plain text; it is hashed using SHA-256.
+---
 
-Ensure you remember your password, as decryption without it is impossible.
+## 📧 Contact
+**Author**: Sanika Kundekar  
+📩 Email: sanikakundekar007@gmail.com  
 
-Always use strong and unique passwords for better security.
-
-
-📧 Contact
-Author: Sanika Kundekar
-📩 Email: sanikakundekar007@gmail.com
-
-🔗 GitHub Repository: 
+🔗 **GitHub Repository**: [GitHub Link](https://github.com/meSanika07/File-Encryptor-Tool)
