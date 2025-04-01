@@ -30,3 +30,27 @@ The **File Encryptor Tool** is a lightweight and user-friendly desktop applicati
 
 ---
 
+🎯 How to Use
+Open the application.
+
+Select one or multiple files to encrypt or decrypt.
+
+Enter a password (stored securely using SHA-256 hashing).
+
+Click Encrypt to secure your files or Decrypt to restore them.
+
+Toggle password visibility if needed.
+
+🔐 Security Considerations
+The password is never stored in plain text; it is hashed using SHA-256.
+
+Ensure you remember your password, as decryption without it is impossible.
+
+Always use strong and unique passwords for better security.
+
+
+📧 Contact
+Author: Sanika Kundekar
+📩 Email: sanikakundekar007@gmail.com
+
+🔗 GitHub Repository: 
