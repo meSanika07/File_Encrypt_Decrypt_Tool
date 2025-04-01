@@ -56,4 +56,4 @@ The **File Encryptor Tool** is a lightweight and user-friendly desktop applicati
 **Author**: Sanika Kundekar  
 📩 Email: sanikakundekar007@gmail.com  
 
-🔗 **GitHub Repository**: [GitHub Link](https://github.com/meSanika07/File-Encryptor-Tool)
+🔗 **GitHub Repository**: https://github.com/meSanika07/File_Encrypt_Decrypt_Tool
